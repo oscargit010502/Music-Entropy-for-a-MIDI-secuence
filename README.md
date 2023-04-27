@@ -6,5 +6,6 @@ The purpose of this project is to calculate the music entropy value for a MIDI m
 // NOTE: this program only works for unidimensional MIDI melody files (chords not included).
 
 it contains:
-☑️ Assets (icon images, MIDI files with music genres)
-☑️ Source code in Python (Jupyter Notebook)
+
+☑️ Assets (icon images, MIDI files with music genres).
+☑️ Source code in Python (Jupyter Notebook).
